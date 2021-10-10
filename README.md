@@ -2,6 +2,9 @@
  
 Luis Corales, Programacion V
 
+# Instrucciones
+Recoge todos los pickups para ganar y evita tocar el spike!
+
 ## Funciones distintas
 + Automatizar la condicional de cantidad de pickups que hay en el mapa.
 + Función EndGame que permite terminar el juego si se ganó o perdió (controlado por boolean).
