@@ -12,3 +12,5 @@ Recoge todos los pickups para ganar y evita tocar el spike!
 ## GameObjects añadidos
 + Spike o púa que destruye al jugador. Se añade un tag "Spike", y en el player controller, se añade la funcion
 + Nueva sección del mapa donde esta el spike y más pickups.
+
+Link del video: https://github.com/LuisCorales/roll-a-ball/blob/main/Demo-RollABall.mp4
